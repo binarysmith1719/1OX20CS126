@@ -11,9 +11,9 @@
 
 ### [ WEB PAGE SCREENSHOTS ] 
 ### FIRST PAGE :
-![Screenshot (338)](https://github.com/binarysmith1719/1OX20CS126/assets/97899226/35176331-a0b3-494d-843e-caf09d70cf06)
+<img width="755" alt="screenshot" src="https://github.com/binarysmith1719/1OX20CS126/assets/97899226/d0102419-f863-440c-9ed4-9fc9bfb37255">
 ### SECOND PAGE :
-<img width="755" alt="screenshot" src="https://github.com/binarysmith1719/1OX20CS126/assets/97899226/cd72d14c-781b-45ed-be20-a563b2fe055a">
+![Screenshot (338)](https://github.com/binarysmith1719/1OX20CS126/assets/97899226/a29fca19-f8e2-4d37-a0ab-9f4f13f61982)
 
 
 
